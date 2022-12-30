@@ -10,5 +10,5 @@
 ```
 
 ## December 2022
-=> gemlog/12-29-2022.gmi How I daily drive Asahi Linux on an M1 Macbook Air (December 28th)
-=> gemlog/12-30-2022.gmi Gemini is the better web (December 30th)
+=> gemlog/arch-linux-on-m1.gmi [12-28-2022] How I daily drive Asahi Linux on an M1 Macbook Air
+=> gemlog/gemini-better-web.gmi [12-29-2022] Gemini is the better web

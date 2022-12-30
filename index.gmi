@@ -31,8 +31,8 @@ curl https://aspectsides.github.io/businesscard/
 
 ### Articles
 
-=> gemlog/12-29-2022.gmi How I daily drive Arch Linux on my M1 MacBook Air
-=> gemlog/12-30-2022.gmi Gemini: The Better Web
+=> gemlog/arch-linux-on-m1.gmi How I daily drive Arch Linux on my M1 MacBook Air
+=> gemlog/gemini-better-web.gmi Gemini: The Better Web
 
 ```
         ~+

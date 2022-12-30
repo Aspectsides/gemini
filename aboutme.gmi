@@ -6,12 +6,12 @@
  /_/    \_\_.__/ \___/ \__,_|\__| |_| |_| |_|\___|
 ```
 
-Hey. My name is Aspect, and I'm a C++ dev and firmly believe in Emacs supremacy.
+* Hey. My name is Aspect, and I'm a C++ dev and firmly believe in Emacs supremacy.
 
-Based Sigma main.
+* Based Sigma main.
 
-Open source cultist.
+* Open source cultist.
 
-Also, I use Arch, btw.
+* Also, I use Arch, btw.
 
-Run curl https://aspectsides.github.io/businesscard/ in your shell to see my business card.
+* Run curl https://aspectsides.github.io/businesscard/ in your shell to see my business card.

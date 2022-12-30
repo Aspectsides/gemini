@@ -16,3 +16,4 @@
 => /notes/brightness.gmi Changing brightness in Asahi Linux Qtile
 
 ## To-Do
+* Write a README.org for my Arch Linux dotfiles

@@ -1,0 +1,13 @@
+# Gemini is the better web.
+
+## What is Gemini?
+
+Back in the 1990s, there were two competing web protocols. They were known as HTTPS and Gopher. That was back in the dark ages and I wasn't even alive at that point but those two web protocols were competing for dominance of the Web. HTTPS eventually won and evolved into what we know and hate today. Gopher was left behind in the dark ages, and is literally just plain text. You can't even use modern web browsers to access Gopher holes. This is where Gemini comes in. Gemini was released in 2019, and is described to be "heavier than Gopher, lighter than the web, and will not replace either." Over the past few weeks, I have been delving deeper into Gemini, and the more I use it the more I like it.
+
+## Why do I like Gemini?
+
+The modern web is, for lack of a better term, an absolute dumpster fire. Everybody loves watching two unskippable 15 second ads before a 4 second video clip, don't they? Everybody loves a random video autoplaying when you just want to read the news, right? Gemini solves both of these problems. Gemini is a web protocol that is comprised entirely of plain text files. There are no ads, no unnecessary videos or pictures, no annoying cookie prompts, no paywalls... I could go on and on. Gemini is, obviously, not meant to replace HTTP. HTTP has just gotten way too ubiquitous for anything to depose it. Gemini's purpose, at least in my eyes, is to create a web where anyone can say what they want, where anyone can easily create a site there and hang out there without constantly being bombarded by corporate ads.
+
+## Final Thoughts
+
+Overall, Gemini just seems like a much more comfy and friendly web to me. It is a place you can go just to relax and consume content. I will be releasing a new post soon on the technical aspects of Gemini, including how to view Gemini websites as well as create your own site.

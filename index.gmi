@@ -14,13 +14,16 @@
 
 ## Welcome my space.
 
-### Quick Links
+### Navigation
 
 => aboutme.gmi About Me
 => gemlog.gmi Gemlog
 => notes.gmi Notes
+
+### Links
 => https://github.com/Aspectsides Github
-=> https://fosstodon.org/@aspectsides My Fediverse
+=> https://fosstodon.org/@aspectsides Mastodon
+=> https://dev.to/aspectsides dev.to
 
 curl https://aspectsides.github.io/businesscard/
 

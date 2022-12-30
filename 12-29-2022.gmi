@@ -50,6 +50,7 @@ These are relatively simple fixes. Install networkmanager and blueman using paru
 ```
 #!/usr/bin/env bash
 nm-applet &
+nitrogen --restore &
 blueman-applet &
 ```
 

@@ -6,6 +6,12 @@
  /_/    \_\_.__/ \___/ \__,_|\__| |_| |_| |_|\___|
 ```
 
-Hey. My name is Aspect, and I'm a C++ dev and firmly believe in Emacs supremacy. Overwatch 2 is the only video game that I play. I use open source software wherever I can. Also, I use Arch, btw.
+Hey. My name is Aspect, and I'm a C++ dev and firmly believe in Emacs supremacy.
+
+Based Sigma main.
+
+Open source cultist.
+
+Also, I use Arch, btw.
 
 Run curl https://aspectsides.github.io/businesscard/ in your shell to see my business card.

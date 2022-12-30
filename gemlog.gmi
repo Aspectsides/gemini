@@ -11,4 +11,4 @@
 => index.gmi Home
 ----------------
 ## December 2022
-=> gemlog/12-29-2022.gmi How I daily drive Asahi Linux on an M1 Macbook Air
+=> 12-29-2022.gmi How I daily drive Asahi Linux on an M1 Macbook Air

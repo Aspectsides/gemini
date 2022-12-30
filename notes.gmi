@@ -13,6 +13,6 @@
 => blog.gmi Blog Ideas
 
 ## Misc.
-=> notes/brightness.gmi Changing brightness in Asahi Linux Qtile
+=> /notes/brightness.gmi Changing brightness in Asahi Linux Qtile
 
 ## To-Do

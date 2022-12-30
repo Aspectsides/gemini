@@ -14,4 +14,4 @@
 
 ### Math Stuff
 
-=> docs/calculusmadeeasy.pdf
+=> docs/calculusmadeeasy.pdf Calculus Made Easy by Silvanus P. Thompson [ISBN 9798581293508]

@@ -6,12 +6,6 @@
  /_/    \_\_.__/ \___/ \__,_|\__| |_| |_| |_|\___|
 ```
 
-* I like computers.
-* I love classical music.
-* C++ dev
-* Pronouns: he/him
-* My favorite video game is Overwatch 2
-* I use arch btw
-* I'm one of those guys that likes pineapple on pizza... I know, I'm ashamed too.
-=> https://github.com/Aspectsides My GitHub Repo
-=> https://fosstodon.org/@aspectsides My Mastodon
+Hey. My name is Aspect, and I'm a C++ dev and firmly believe in Emacs supremacy. Overwatch 2 is the only video game that I play. I use open source software wherever I can. Also, I use Arch, btw.
+
+Run curl https://aspectsides.github.io/businesscard/ in your shell to see my business card.

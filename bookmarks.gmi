@@ -8,10 +8,11 @@
 ```
 
 ## Useful Resources
-=> gemini://gemini.circumlunar.space/capcom/ Capcom
+=> gemini://gemini.circumlunar.space/capcom/ CAPCOM
 => gemini://geminiquickst.art/ Gemini Quickstart
 => gemini://geminispace.info/ Gemini Homepage
 => gemini://gemi.dev/cgi-bin/wp.cgi/ Wikipedia for Gemini
+=>
 
 ## My Stuff
 => https://github.com/Aspectsides/ My Github

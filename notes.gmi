@@ -6,7 +6,6 @@
  | |\  | (_) | ||  __/\__ \
  |_| \_|\___/ \__\___||___/
 ```
-=> index.gmi Home
 
 => bookmarks.gmi Bookmarks
 => readinglist.gmi Reading and Watching List

@@ -8,7 +8,6 @@
               | |                                                         __/ |
               |_|                                                        |___/
 ```
-=> index.gmi Home
-----------------
+
 ## December 2022
 => 12-29-2022.gmi How I daily drive Asahi Linux on an M1 Macbook Air

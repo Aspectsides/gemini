@@ -6,8 +6,6 @@
  | |_) | (_) | (_) |   <| | | | | | (_| | |  |   <\__ \
  |____/ \___/ \___/|_|\_\_| |_| |_|\__,_|_|  |_|\_\___/
 ```
-=> index.gmi Home
----------------------
 
 ## Useful Resources
 => gemini://gemini.circumlunar.space/capcom/ Capcom

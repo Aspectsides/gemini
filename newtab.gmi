@@ -16,7 +16,7 @@
 > Welcome to the better web.
 
 Bookmarks:
-=> gemini://aspectsides.srht.site Aspect's Capsule
+=> gemini://tilde.pink/~aspect/ Aspect's Capsule
 => gemini://gemini.circumlunar.space/capcom/ CAPCOM
 => gemini://gemi.dev/cgi-bin/wp.cgi/ GemiPedia
 => gemini://skyjake.fi/~Cosmos/ Cosmos

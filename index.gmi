@@ -10,6 +10,8 @@
              \|_________|
 ```
 
+> It is during our darkest moments that we must focus to see the light.
+
 ## Hey.
 
 ## Welcome my space.
@@ -30,3 +32,4 @@
  |:__('|)___________________@|___(|__|__#( )___@|._____@|__@|_@|____________:|
       "|                              mp                                    /
 ```
+> Emacs Supremacy

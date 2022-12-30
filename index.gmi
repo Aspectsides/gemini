@@ -21,6 +21,7 @@
 => aboutme.gmi About Me
 => gemlog.gmi Gemlog
 => notes.gmi Notes
+=> newtab.gmi My Gemini New Tab Page
 
 ### Links
 => https://github.com/Aspectsides Github

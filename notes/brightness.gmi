@@ -2,10 +2,13 @@
 
 * Make sure you have the Asahi-edge kernel installed
 * Install light with
+
 ```
 paru -S light
 ```
+
 * Then add this or something similar into your WM config file (I use Qtile)
+
 ```
     Key(
         [],

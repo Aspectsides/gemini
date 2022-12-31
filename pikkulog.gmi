@@ -12,4 +12,4 @@
 
 This is a little gemlog for shorter writings, and will be updated more often than my official gemlog.
 
-=> pikkulog/december2022 Decmber 2022
+=> pikkulog/december2022.gmi December 2022

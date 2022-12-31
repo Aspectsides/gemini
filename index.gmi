@@ -12,11 +12,11 @@
 
 > It is during our darkest moments that we must focus to see the light.
 
-## Hey.
+# Hey.
 
-## Welcome my space.
+# Welcome my space.
 
-### Navigation
+## Navigation
 
 => aboutme.gmi About Me
 => gemlog.gmi Gemlog
@@ -24,19 +24,19 @@
 => docs.gmi Files
 => newtab.gmi My Gemini New Tab Page
 
-### Links
+## Links
+
 => https://github.com/Aspectsides Github
 => https://fosstodon.org/@aspectsides Mastodon
 => https://dev.to/aspectsides dev.to
 => https://keyoxide.org/28AAD1A6FEA3CC1CC5D51B4BD1AA1A860CE883C4 Keyoxide
 
-curl 0x0.st/s/HC-khBV4lTJePozc09dhPQ/oRTo.html
-
-### Articles
+## Articles
 
 => gemlog/arch-linux-on-m1.gmi How I daily drive Arch Linux on my M1 MacBook Air
 => gemlog/gemini-better-web.gmi Gemini: The Better Web
 
+curl 0x0.st/s/HC-khBV4lTJePozc09dhPQ/oRTo.html
 ```
         ~+
 
@@ -49,5 +49,4 @@ curl 0x0.st/s/HC-khBV4lTJePozc09dhPQ/oRTo.html
             .   '=.__.=' `='      *
    +                         +
         O      *        '       .
-jgs
 ```

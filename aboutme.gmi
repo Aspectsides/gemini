@@ -12,7 +12,7 @@
 
 * Open source cultist.
 
-* Run curl https://aspectsides.github.io/businesscard/ in your shell to see my business card.
+* Run curl 0x0.st/s/HC-khBV4lTJePozc09dhPQ/oRTo.html in your shell to see my business card.
 
 * Also, I use Arch, btw.
 

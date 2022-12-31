@@ -30,7 +30,7 @@
 => https://dev.to/aspectsides dev.to
 => https://keyoxide.org/28AAD1A6FEA3CC1CC5D51B4BD1AA1A860CE883C4 Keyoxide
 
-curl https://aspectsides.github.io/businesscard/
+curl 0x0.st/s/HC-khBV4lTJePozc09dhPQ/oRTo.html
 
 ### Articles
 

@@ -21,6 +21,7 @@
 => gemlog.gmi Gemlog
 => notes.gmi Notes
 => docs.gmi Files
+=> pikkulog.gmi Pikkulog
 
 ## About Me
 

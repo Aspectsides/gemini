@@ -40,6 +40,7 @@ Hey. My name is Aspect, and I'm a 16 year old high school student who firmly bel
 => https://fosstodon.org/@aspectsides Fediverse
 => https://dev.to/aspectsides dev.to
 => https://keyoxide.org/28AAD1A6FEA3CC1CC5D51B4BD1AA1A860CE883C4 Keyoxide
+=> todo.txt todo.txt
 
 ## Articles
 

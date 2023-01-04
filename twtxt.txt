@@ -5,3 +5,4 @@
 2023-01-02T10:40:53-08:00	gruvbox is my favorite colorscheme now
 2023-01-02T21:39:45-08:00	forget about distro hopping I'm colorscheme hopping. catppuccin is now my favorite colorscheme
 2023-01-03T16:44:36-08:00	school started today, i already wanna go back to break :D
+2023-01-03T21:39:31-08:00	started using vimwiki instead of notion, it's great

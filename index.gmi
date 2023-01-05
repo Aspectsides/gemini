@@ -29,6 +29,7 @@
 => notes.gmi Notes
 => docs.gmi Files
 => twtxt.txt twtxt
+=> uses.gmi Hardware and software I use
 
 ## About Me
 

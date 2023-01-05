@@ -1,33 +1,33 @@
 # Software and hardware that I use
 
 ## Software:
-  => https://github.com/alacritty/alacritty Alacritty
+=> https://github.com/alacritty/alacritty Alacritty
   My preferred terminal emulator. It's fast, has Ueberzug support, and is extremely configurable.
 
-  => https://github.com/neovim/neovim Neovim
+=> https://github.com/neovim/neovim Neovim
   My preferred text editor. It's very customizable and extensible, and well worth it to learn
 
-  => https://fishshell.com/ Fish Shell
+=> https://fishshell.com/ Fish Shell
   My preferred shell, it has a lot of things out of the box such as syntax highlighting and autocomplete
 
-  => https://www.mozilla.org/en-US/firefox/new/ Firefox
+=> https://www.mozilla.org/en-US/firefox/new/ Firefox
   I hate Mozilla, but I love their browser. I remove a lot of the Mozilla junk using 
- => https://github.com/yokoffing/Betterfox Betterfox
+=> https://github.com/yokoffing/Betterfox Betterfox
   
-  => https://github.com/vimwiki/vimwiki
+=> https://github.com/vimwiki/vimwiki
   A great plugin for Vim and Neovim that I use to take all my notes in.
 
-  => https://github.com/davatorium/rofi Rofi
+=> https://github.com/davatorium/rofi Rofi
   A nice app launcher
 
-  => https://github.com/qtile/qtile Qtile
+=> https://github.com/qtile/qtile Qtile
   My favorite tiling window manager.
 
 ## Hardware:
   M1 Macbook Air 
   Got this back when I knew nothing about computers and how good Linux was, I run Asahi Linux on it now and am verry happy with it.
   
-  => https://www.amazon.ca/MechanicalEagle-Multicolor-Mechanical-Keyboard-Tenkeyless/dp/B01DBVH16U?th=1 MechanicalEagle Z-77 TKL
+=> https://www.amazon.ca/MechanicalEagle-Multicolor-Mechanical-Keyboard-Tenkeyless/dp/B01DBVH16U?th=1 MechanicalEagle Z-77 TKL
   I just wanted something that wasn't the Macbook keyboard.
 
 

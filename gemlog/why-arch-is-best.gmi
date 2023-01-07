@@ -2,7 +2,7 @@
 
 ## What is Arch Linux?
 
-If you&rsquo;ve been using Linux for any amount of time, you&rsquo;ve likely heard of Arch Linux as the &ldquo;elitist&rsquo;s&rdquo; Linux distro. This is due mainly to the fact that Arch used to be so goddamn hard to install. You had to go through all the trouble of installing drivers, a graphical environment and dependencies for said programs all through the TTY, without any graphical installation process to speak of. Nowadays, it&rsquo;s gotten a lot easier to install Arch. Many Arch-based distros, including my preferred distro Asahi, have implemented graphical Calamares installation helpers. This means it&rsquo;s gotten easier than ever to install Arch and take it for a spin. Here are five reasons why Arch Linux is the best Linux distribution.
+If you've been using Linux for any amount of time, you've likely heard of Arch Linux as the &ldquo;elitist&rsquo;s&rdquo; Linux distro. This is due mainly to the fact that Arch used to be so goddamn hard to install. You had to go through all the trouble of installing drivers, a graphical environment and dependencies for said programs all through the TTY, without any graphical installation process to speak of. Nowadays, it&rsquo;s gotten a lot easier to install Arch. Many Arch-based distros, including my preferred distro Asahi, have implemented graphical Calamares installation helpers. This means it&rsquo;s gotten easier than ever to install Arch and take it for a spin. Here are five reasons why Arch Linux is the best Linux distribution.
 
 ## 1. Rolling Release Updates
 
@@ -14,7 +14,7 @@ Pacman is widely regarded as the fastest package manager among the popular packa
 
 ## 3. The Arch User Repository
 
-As if the sheer amount of packages available in Arch Linux&rsquo;s official repositories wasn&rsquo;t enough, Arch also comes with easy access to something known as the Arch User Repository, which is a community driven repository for Arch users. With an AUR helper such as yay or paru, Arch users are able to download package descriptions (PKGBUILDS), that allow you to compile a package from source and then install it with Pacman. Since it is community driven, you can find almost everything on the AUR. Just paru your heart out.
+As if the sheer amount of packages available in Arch Linux's official repositories wasn&rsquo;t enough, Arch also comes with easy access to something known as the Arch User Repository, which is a community driven repository for Arch users. With an AUR helper such as yay or paru, Arch users are able to download package descriptions (PKGBUILDS), that allow you to compile a package from source and then install it with Pacman. Since it is community driven, you can find almost everything on the AUR. Just paru your heart out.
 
 ## 4. All Desktop Environments are at your Disposal
 

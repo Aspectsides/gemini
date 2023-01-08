@@ -7,3 +7,4 @@
 2023-01-03T16:44:36-08:00	school started today, i already wanna go back to break :D
 2023-01-03T21:39:31-08:00	started using vimwiki instead of notion, it's great
 2023-01-07T14:36:56-08:00	why have I never heard of picom-pijulius before it's so nice
+2023-01-08T14:51:35-08:00	brave finally released an arm64 version for linux, i can finally use it on asahi!

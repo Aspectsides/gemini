@@ -9,6 +9,7 @@
 ░ ░   ░    ░   ░      ░     ░ ░   ░ ░ ░ ▒  ░ ░   ░ 
       ░    ░  ░       ░       ░  ░    ░ ░        ░ 
 ```
+
 ## January 2023
 => gemlog/why-vimwiki-best.gmi [01/07/2023] Why Vimwiki is the Best Notetaking App
 => gemlog/why-arch-is-best.gmi [01/02/2023] 5 Reasons Why Arch Linux is the Best Linux Distro

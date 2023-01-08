@@ -40,6 +40,7 @@ Hey. My name is Aspect, and I'm a 16 year old high school student who firmly bel
 ## Articles
 
 => gemlog/why-vimwiki-best.gmi Why Vimwiki is the Best Notetaking App
+=> gemlog/why-catppuccin-is-amazing.gmi Why Catppuccin is my favorite colorscheme
 => gemlog/why-arch-is-best.gmi 5 Reasons Why Arch Linux is the Best Linux Distro
 => gemlog/arch-linux-on-m1.gmi How I daily drive Arch Linux on my M1 MacBook Air
 => gemlog/gemini-better-web.gmi Gemini: The Better Web

@@ -4,8 +4,8 @@
 => https://github.com/alacritty/alacritty Alacritty
   My preferred terminal emulator. It's fast, has Ueberzug support, and is extremely configurable.
 
-=> https://github.com/neovim/neovim Neovim
-  My preferred text editor. It's very customizable and extensible, and well worth it to learn
+=> https://github.com/neovim/neovim Emacs
+  My preferred text editor. It's very customizable and extensible, and might as well be an entire operating system
 
 => https://fishshell.com/ Fish Shell
   My preferred shell, it has a lot of things out of the box such as syntax highlighting and autocomplete

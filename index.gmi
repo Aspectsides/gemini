@@ -28,7 +28,7 @@
 
 ## About Me
 
-Hey. My name is Aspect, and I'm a 16 year old high school student who firmly believes in Vim supremacy and the power of the AUR. I enjoy listening to classical music, playing chess, and riding my bike. Yes, I am the definition of "nerd." I use arch btw.
+Hey. My name is Aspect, and I'm a 16 year old high school student who firmly believes in Emacs supremacy and the power of the AUR. I enjoy listening to classical music, playing chess, and riding my bike. Yes, I am the definition of "nerd." I use arch btw.
 
 ## Links
 

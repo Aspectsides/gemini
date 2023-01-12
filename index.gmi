@@ -39,8 +39,8 @@ Hey. My name is Aspect, and I'm a 16 year old high school student who firmly bel
 
 ```
 -----BEGIN GEEK CODE BLOCK-----
-Version: 3.12 GCS/M/MU
-d- s: a--- L++ E+ W++ M PS PE PGP+ t R+ tv b++ DI+ G e- !h !r
+Version: 3.12
+GCS/M/MU d- s: a--- L++ E+ W++ M PS PE PGP+ t R+ tv b++ DI+ G e- !h !r
 ------END GEEK CODE BLOCK------
 ```
 

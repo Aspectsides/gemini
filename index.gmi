@@ -37,6 +37,12 @@ Hey. My name is Aspect, and I'm a 16 year old high school student who firmly bel
 => https://dev.to/aspectsides dev.to
 => https://keyoxide.org/28AAD1A6FEA3CC1CC5D51B4BD1AA1A860CE883C4 Keyoxide
 
+```
+-----BEGIN GEEK CODE BLOCK-----
+Version: 3.12 GCS/M/MU
+d- s: a--- L++ E+ W++ M PS PE PGP+ t R+ tv b++ DI+ G e- !h !r
+------END GEEK CODE BLOCK------
+```
 ## Articles
 
 => gemlog/why-vimwiki-best.gmi Why Vimwiki is the Best Notetaking App

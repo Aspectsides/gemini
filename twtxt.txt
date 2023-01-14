@@ -10,3 +10,4 @@
 2023-01-08T14:51:35-08:00	brave finally released an arm64 version for linux, i can finally use it on asahi!
 2023-01-09T17:14:28-08:00	hopped notetaking software again, using org-roam in emacs now
 2023-01-12T22:24:42-08:00	i fucking hate whap
+2023-01-13T21:20:20-08:00	why did i not know keychords were a thing in qtile until now

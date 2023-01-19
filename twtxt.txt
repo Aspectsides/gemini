@@ -13,3 +13,4 @@
 2023-01-13T21:20:20-08:00	why did i not know keychords were a thing in qtile until now
 2023-01-14T13:13:04-08:00	DOOM EMACAS IS AMAZING
 2023-01-15T22:00:32-08:00	switched to gnome with material-shell
+2023-01-18T22:45:52-08:00	will the madness never end I switched to dracula

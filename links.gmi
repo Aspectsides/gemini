@@ -1,0 +1,11 @@
+# Links
+
+Here are some links to websites that I find useful or interesting. Most of these have helped me a lot in my Linux journey, and I'm sure they will help you too.
+
+## Blogs/Websites worth reading
+
+=> https://systemcrafters.net/ System Crafters
+   A great website for learning how to craft your own system. I learned a lot about Emacs from this site.
+=> https://lukesmith.xyz/ Luke Smith
+   Pretty sure Luke is actually insane but I enjoy his content (and even slightly agree with him sometimes)
+=>

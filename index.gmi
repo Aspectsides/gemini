@@ -18,15 +18,18 @@
 # Hey. Welcome my space.
 
 ## Navigation
+
 => gemlog.gmi Gemlog
 => docs.gmi Files
 => twtxt.txt twtxt
 => uses.gmi Hardware and software I use
 
 ## About Me
+
 Hey. My name is Aspect, and I'm a 16 year old high school student who firmly believes in Emacs supremacy and the power of the AUR. I enjoy listening to classical music, playing chess, and riding my bike. Yes, I am the definition of "nerd." I use arch btw.
 
 ## Links
+
 => https://github.com/Aspectsides Github
 => https://fosstodon.org/@aspectsides Fediverse
 => https://dev.to/aspectsides dev.to
@@ -41,6 +44,7 @@ GCS/M/MU d- s: a--- L++ E+ W++ M PS PE PGP+ t R+ tv b++ DI+ G e- !h !r
 ```
 
 ## Articles
+
 => gemlog/why-vimwiki-best.gmi Why Vimwiki is the Best Notetaking App
 => gemlog/why-catppuccin-is-amazing.gmi Why Catppuccin is my favorite colorscheme
 => gemlog/why-arch-is-best.gmi 5 Reasons Why Arch Linux is the Best Linux Distro
